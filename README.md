@@ -23,8 +23,11 @@
 * [FontSquirrel](http://fontsquirrel.com) - free to use commercial fonts
 
 ## Colors
+* [Coolors](https://coolors.co/app) - color scheme generator
 
 ## Software
+
+### Sketch Plugins
 
 ## Tutorials
 
