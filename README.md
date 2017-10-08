@@ -16,7 +16,6 @@
 ## Illustrations
 
 * [FreePik](http://freepik.com) - incredible source for free vectors and PSDs
-
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - search functionality leaves a lot to be desired, but there are some real gems in here if you are looking for old fashioned illustrations
 
 ## Typography
