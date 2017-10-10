@@ -19,11 +19,18 @@
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - search functionality leaves a lot to be desired, but there are some real gems in here if you are looking for old fashioned illustrations
 
 ## Typography
+* [TypeWolf](https://www.typewolf.com/recommendations) - typography usage and recommendations
+* [A Five Minute Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+
+### Obtaining fonts
 
 * [FontSquirrel](http://fontsquirrel.com) - free to use commercial fonts
+* [League of Movable Type](https://www.theleagueofmoveabletype.com/) - free to use fonts, see info on each font regarding commercial usage
 
 ## Colors
 * [Coolors](https://coolors.co/app) - color scheme generator
+* [ColourLovers](http://www.colourlovers.com/) - color palette inspiration
+
 
 ## Software
 
